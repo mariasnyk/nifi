@@ -23,7 +23,7 @@
     <artifactId>nifi-azure-graph-authorizer</artifactId>
     <packaging>jar</packaging>
     <properties>
-        <microsoft-graph.version>2.10.0</microsoft-graph.version>
+        <microsoft-graph.version>5.55.0</microsoft-graph.version>
     </properties>
     <dependencies>
         <dependency>
