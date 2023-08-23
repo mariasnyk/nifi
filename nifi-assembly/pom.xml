@@ -40,7 +40,7 @@ language governing permissions and limitations under the License. -->
                             <stripVersion>true</stripVersion>
                             <silent>true</silent>
                             <fileMappers>
-                                <org.codehaus.plexus.components.io.filemappers.FlattenFileMapper />
+                                <org.codehaus.plexus.components.io.filemappers.FlattenFileMapper/>
                             </fileMappers>
                         </configuration>
                     </execution>
@@ -283,19 +283,19 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-kafka-1-0-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-kafka-2-0-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-kafka-2-6-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -319,7 +319,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-lookup-services-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -427,13 +427,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-aws-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-aws-service-api-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -493,7 +493,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-hbase_1_1_2-client-service-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -511,7 +511,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-azure-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -535,7 +535,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-groovyx-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -607,7 +607,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-cassandra-services-api-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -715,7 +715,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-gcp-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -763,7 +763,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-hwx-schema-registry-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.2</version>
             <type>nar</type>
         </dependency>
         <dependency>
