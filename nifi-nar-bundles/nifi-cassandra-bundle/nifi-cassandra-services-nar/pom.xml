@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-cassandra-services-api-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.1</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -50,7 +50,7 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-cassandra-distributedmapcache-service</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.23.0</version>
         </dependency>
     </dependencies>
 </project>
