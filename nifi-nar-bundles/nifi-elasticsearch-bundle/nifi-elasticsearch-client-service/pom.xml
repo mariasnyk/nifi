@@ -135,7 +135,7 @@
         <dependency>
             <groupId>com.jayway.jsonpath</groupId>
             <artifactId>json-path</artifactId>
-            <version>2.7.0</version>
+            <version>2.9.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
@@ -226,7 +226,7 @@
                 <es.int.version>6.8.23</es.int.version>
                 <es.int.type.name>_doc</es.int.type.name>
                 <es.int.script.name>setup-6.script</es.int.script.name>
-                <es.int.path.conf />
+                <es.int.path.conf/>
             </properties>
         </profile>
         <profile>
@@ -238,8 +238,8 @@
             <properties>
                 <es.int.version>7.10.2</es.int.version>
                 <es.int.script.name>setup-7.script</es.int.script.name>
-                <es.int.type.name />
-                <es.int.path.conf />
+                <es.int.type.name/>
+                <es.int.path.conf/>
             </properties>
         </profile>
         <profile>
@@ -251,8 +251,8 @@
             <properties>
                 <es.int.version>7.17.3</es.int.version>
                 <es.int.script.name>setup-7.script</es.int.script.name>
-                <es.int.type.name />
-                <es.int.path.conf />
+                <es.int.type.name/>
+                <es.int.path.conf/>
             </properties>
         </profile>
         <profile>
@@ -266,8 +266,8 @@
                 <!-- elasticsearch-maven-plugin version 6.20+ required for Elasticsearch 8.x+ -->
                 <alexcojocaru.plugin.version>6.22</alexcojocaru.plugin.version>
                 <es.int.script.name>setup-8.script</es.int.script.name>
-                <es.int.type.name />
-                <es.int.path.conf />
+                <es.int.type.name/>
+                <es.int.path.conf/>
             </properties>
         </profile>
 
