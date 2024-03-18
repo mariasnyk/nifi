@@ -273,7 +273,7 @@ limitations under the License.
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-runtime</artifactId>
-                <version>1.18.0-SNAPSHOT</version>
+                <version>1.18.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -305,7 +305,7 @@ limitations under the License.
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-framework-core</artifactId>
-                <version>1.18.0-SNAPSHOT</version>
+                <version>1.24.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -414,7 +414,7 @@ limitations under the License.
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-administration</artifactId>
-                <version>1.18.0-SNAPSHOT</version>
+                <version>1.23.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
