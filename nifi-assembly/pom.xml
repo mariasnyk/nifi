@@ -40,7 +40,7 @@ language governing permissions and limitations under the License. -->
                             <stripVersion>true</stripVersion>
                             <silent>true</silent>
                             <fileMappers>
-                                <org.codehaus.plexus.components.io.filemappers.FlattenFileMapper />
+                                <org.codehaus.plexus.components.io.filemappers.FlattenFileMapper/>
                             </fileMappers>
                         </configuration>
                     </execution>
@@ -385,7 +385,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-solr-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
