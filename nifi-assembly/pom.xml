@@ -40,7 +40,7 @@ language governing permissions and limitations under the License. -->
                             <stripVersion>true</stripVersion>
                             <silent>true</silent>
                             <fileMappers>
-                                <org.codehaus.plexus.components.io.filemappers.FlattenFileMapper />
+                                <org.codehaus.plexus.components.io.filemappers.FlattenFileMapper/>
                             </fileMappers>
                         </configuration>
                     </execution>
@@ -200,13 +200,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-framework-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.27.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-server-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.27.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -242,7 +242,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-standard-nar</artifactId>
-            <version>1.18.0-SNAPSHOT</version>
+            <version>1.27.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -1092,7 +1092,7 @@ language governing permissions and limitations under the License. -->
                 <dependency>
                     <groupId>org.apache.nifi</groupId>
                     <artifactId>nifi-server-nar</artifactId>
-                    <version>1.18.0-SNAPSHOT</version>
+                    <version>1.27.0</version>
                     <type>nar</type>
                     <scope>provided</scope>
                 </dependency>
