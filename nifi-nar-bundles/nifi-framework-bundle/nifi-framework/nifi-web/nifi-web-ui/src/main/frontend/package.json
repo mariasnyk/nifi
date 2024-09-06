@@ -42,7 +42,7 @@
     "moment": "2.29.2",
     "qtip2": "3.0.3",
     "reset.css": "2.0.2",
-    "slickgrid": "2.4.38",
+    "slickgrid": "3.0.0",
     "url-search-params": "0.6.1"
   },
   "devDependencies": {
