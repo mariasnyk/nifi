@@ -103,12 +103,12 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-framework-cluster-protocol</artifactId>
-                <version>1.18.0-SNAPSHOT</version>
+                <version>1.24.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-framework-cluster</artifactId>
-                <version>1.18.0-SNAPSHOT</version>
+                <version>1.24.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -148,7 +148,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-framework-core</artifactId>
-                <version>1.18.0-SNAPSHOT</version>
+                <version>1.24.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
